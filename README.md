@@ -1,0 +1,2 @@
+# -Medical-Document-Information-Extraction-and-Patient-Friendly-Summarization
+MediSaarthi AI uses NLP to extract diagnoses, medications, test results, and follow-up instructions from medical reports. It generates concise, patient-friendly summaries while handling abbreviations, preserving the original meaning, and ensuring information remains grounded in the source without unsupported medical claims.
